@@ -22,4 +22,4 @@ Please, feel free to clone, make suggestions and propose improvements.
 
 # Documentation
 
-Navigate to the Documentation folder, to find a Demonstration Script and a Functional Specification.
+Navigate to the Documentation folder, to find a [Demonstration Script](/Documentation/DemoScript.md) and a [Functional Specification](/Documentation/FunctionalSpecification.md).
