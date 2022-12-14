@@ -161,7 +161,7 @@ The three important functions are on both the Blanket Order Header and on the li
 
 - We presume that the Quantity to Ship is zero. This means that the Make Order Batch Job can be run at any time without any consequences. 
 - Once the Calculate Quantity to Ship is run, we can check the subscriptions before we call the Make Order. You can execute the Make Order from an individual Blanket Order or an several Blank Orders as a Batch Job. 
-- One the orders have been created, you will have to invoice them using the usual invoicing process. 
+- Once the orders have been created, you will have to invoice them using the usual invoicing process. 
 - When ready for the following subscription period, you can run the Calculate Next Subscription Period. 
 
 The system has been designed so you can run this procedure every day or as often as you like. A Shipment Date in the future is simply ignored by the function. 
